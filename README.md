@@ -1,7 +1,6 @@
 ### Opa!!! Paulo Moreno aqui 👋
 
 - 🔭 Estou trabalhando no projeto final de um curso de Fullstack
-- 🌱 atualmente aprendendo PHP
 - 😄 Pronomes: ele/dele
 
 <div align="center"> 
